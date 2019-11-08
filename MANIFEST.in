@@ -1,0 +1,6 @@
+include MANIFEST.in
+include LICENSE
+include *.rst
+include *.md
+recursive-include pyramiko_sample *.py
+recursive-include tests *.py
